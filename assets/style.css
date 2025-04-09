@@ -55,6 +55,7 @@ h1 {
 }
 .description {
   margin-left: 1rem;
+  font-size: 0.9rem;
 }
 
 .description h3 {
@@ -141,4 +142,5 @@ article {
 article img {
   width: 100%;
   display: inline-block;
+  max-width: 40rem;
 }
