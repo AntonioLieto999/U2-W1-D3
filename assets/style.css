@@ -127,6 +127,8 @@ nav li.shop a {
   color: #4b2d00;
   display: inline-block;
   vertical-align: middle;
+  margin-bottom: 0.4rem;
+  padding: 0.4rem;
 }
 #logo {
   margin-right: 0.5rem;
